@@ -9,3 +9,4 @@ Encodage de l'authetification aux ressources mysql et wordpress,
 Test et connexion au site wordpress et 
 Validation du mini-projet K8S
 
+![Capture d’écran (16)](https://github.com/mikimihia/mini-projet_k8s/assets/44511981/609843eb-8e17-4645-871e-e7d70bed48d7)
