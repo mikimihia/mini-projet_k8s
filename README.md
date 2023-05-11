@@ -7,4 +7,5 @@ Edition d'un deploiement Wordpress avec les variables d'env pour ce connecter a 
 Creation d'un service de type nodeport pour exposer le frontend de wordpress,
 Encodage de l'authetification aux ressources mysql et wordpress,
 Test et connexion au site wordpress et 
-Validation du mini-projet K8S.
+Validation du mini-projet K8S
+
